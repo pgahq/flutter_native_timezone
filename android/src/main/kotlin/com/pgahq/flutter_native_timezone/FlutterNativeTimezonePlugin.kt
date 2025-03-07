@@ -1,4 +1,4 @@
-package com.whelksoft.flutter_native_timezone
+package com.pgahq.flutter_native_timezone
 
 import android.os.Build
 import androidx.annotation.NonNull
